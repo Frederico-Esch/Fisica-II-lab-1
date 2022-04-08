@@ -1,0 +1,11 @@
+M = 50,45 g -> 0,05045 Kg
+L = 1.79 m 
+g = 9.8 m/s^2
+T = 0.49 N
+mi = 0.17 g/m = 0.00017 Kg/m
+Gerador de função -> senoidal, Intervalo -> ESC3
+
+Menor valor das coisas:
+Balança: 0.01 gramas
+Trena: 2 mm
+Gerador de Funções 1Hz
